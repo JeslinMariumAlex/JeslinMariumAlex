@@ -1,7 +1,6 @@
- Hi there 👋 I am Jeslin...
-
-- 👩‍💻 With a self-taught background, I am proficient in Full Stack  Web Development (React.js, Python Django).
-- 💪 My cultivated adaptability allows me to create reliable, effective online applications.
-- 🚀 Committed to continuous learning and growth, and to keep abreast of cutting-edge technologies and methods.
-- 💞 I’m looking for exciting opportunities.
-- 📧 Reach me via my Email: jeslinmariumalex@gmail.com
+Hi there! 👋 I’m Jeslin
+👩‍💻 Proficient Full Stack Developer with expertise in React.js and Python Django, cultivated through a self-taught background and hands-on experience.
+💪 Passionate about building reliable, scalable web applications and adapting to new challenges.
+🚀 Committed to continuous learning to stay updated with cutting-edge technologies and practices.
+💞 Actively seeking exciting opportunities to collaborate on innovative projects.
+📧 Feel free to reach out via jeslinmariumalex@gmail.com.
