@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Jeslin....</h1>
 
-<h1>Hi 👋, I'm Jeslin Marium Alex</h1>
-
 👩‍💻 Full Stack Developer specializing in **Node.js, TypeScript, React, and Django**.
 
 💼 Currently working as a **Junior Software Developer at Richinnovations Technologies**, contributing to a production **Email Marketing SaaS platform**.
