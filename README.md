@@ -13,6 +13,7 @@
 ---
 
 
+<h2>🚀 Tech Stack</h2>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
