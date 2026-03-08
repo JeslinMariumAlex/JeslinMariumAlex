@@ -2,7 +2,7 @@
 
 👩‍💻 Full Stack Developer specializing in **Node.js, TypeScript, React, and Django**.
 
-💼 Currently working as a **Junior Software Developer at Richinnovations Technologies**, contributing to a production **Email Marketing SaaS platform**.
+💼 Currently working as a **Software Developer at Richinnovations Technologies**, contributing to a production **Email Marketing SaaS platform**.
 
 🚀 Passionate about building **scalable web applications, REST APIs, and backend systems**.
 
