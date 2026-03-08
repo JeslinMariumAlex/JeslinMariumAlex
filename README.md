@@ -12,8 +12,6 @@
 
 ---
 
-<h2>🚀 Tech Stack</h2>
-
 
 <h2>🚀 Tech Stack</h2>
 
@@ -38,8 +36,6 @@
 <b>Tools</b><br> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
 
 </p>
-
-
 
 <h2>⚡ Connect With Me</h2>
 
