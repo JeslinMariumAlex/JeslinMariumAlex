@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jeslin . . .</h1>
+<h1>Hi 👋, I'm Jeslin . . . .</h1>
 
 👩‍💻 Full Stack Developer specializing in **Node.js, TypeScript, React, and Django**.
 
