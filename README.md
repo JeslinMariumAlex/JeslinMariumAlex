@@ -38,10 +38,9 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JeslinMariumAlex&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JeslinMariumAlex&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeslinMariumAlex&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeslinMariumAlex&theme=github_dark"/>
 </p>
-
 
 
 <h2>⚡ Connect With Me</h2>
