@@ -35,13 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeslinMariumAlex&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeslinMariumAlex&theme=github_dark"/>
-</p>
-
 
 <h2>⚡ Connect With Me</h2>
 
