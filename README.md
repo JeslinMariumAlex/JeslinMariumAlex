@@ -1,14 +1,43 @@
 <h1>Hi 👋, I'm Jeslin....</h1>
 
-👩‍💻 Proficient Full Stack Developer with expertise in React.js and Python Django, cultivated through a self-taught background and hands-on experience.
+<h1>Hi 👋, I'm Jeslin Marium Alex</h1>
 
-💪 Passionate about building reliable, scalable web applications and adapting to new challenges.
+👩‍💻 Full Stack Developer specializing in **Node.js, TypeScript, React, and Django**.
 
-🚀 Committed to continuous learning to stay updated with cutting-edge technologies and practices.
+💼 Currently working as a **Junior Software Developer at Richinnovations Technologies**, contributing to a production **Email Marketing SaaS platform**.
 
-💞 Actively seeking exciting opportunities to collaborate on innovative projects.
+🚀 Passionate about building **scalable web applications, REST APIs, and backend systems**.
 
-📧 Feel free to reach out via jeslinmariumalex@gmail.com.
+📚 Continuously learning and improving my **backend architecture and full-stack development skills**.
+
+📧 Reach me at: **[jeslinmariumalex@gmail.com](mailto:jeslinmariumalex@gmail.com)**
+
+---
+
+<h2>🚀 Languages and Tools</h2>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
+</p>
+
+<h2>⚡ Connect With Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/jeslinmariumalex">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
